@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    margin: 50px;
+    background-color: whitesmoke ;
+}
+h1 {
+    text-align: center;
+}
+h2{
+    margin: 0px;
+}
+.item{
+    background: black;
+    color: white;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+
+span {
+    color: orange;
+
+}
+p {
+    color: whitesmoke;
+}
+a {
+ display: inline-block;
+ background: orange;
+ color: #332200;
+ padding: 4px;
+ border-radius: 4px;
+ text-decoration: none;
+}
